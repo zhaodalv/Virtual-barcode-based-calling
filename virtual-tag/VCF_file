@@ -3,10 +3,10 @@
 ##INFO=<ID=GENE,Number=1,Type=String,Description="Gene symbol">
 ##INFO=<ID=HGVSP,Number=1,Type=String,Description="HGVS Protein">
 ##FILTER=<ID=PASS,Description="All filters passed">
-#CHROM  POS     ID      REF     ALT
-7	55259515	.	T	G
-7	55249071	.	C	T
-12	25398284	.	C	T
-1	115256530	.	G	T
-1	115256536	.	C	T
-3	178936091	.	G	A
+#CHROM  POS     ID      REF     ALT	QUAL	FILTER	INFO
+7	55259515	.	T	G	.	.	.
+7	55249071	.	C	T	.	.	.
+12	25398284	.	C	T	.	.	.
+1	115256530	.	G	T	.	.	.	
+1	115256536	.	C	T	.	.	.
+3	178936091	.	G	A	.	.	.
